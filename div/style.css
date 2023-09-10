@@ -1,0 +1,89 @@
+body {
+
+    background-image: linear-gradient(to right top,
+            #d16ba5,
+            #c777b9,
+            #ba83ca,
+            #aa8fd8,
+            #9a9ae1,
+            #8aa7ec,
+            #79b3f4,
+            #69bff8,
+            #52cffe,
+            #4adfff,
+            #46eefa,
+            #5ffbf1);
+    background-attachment: fixed;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 896px;
+    height:auto;
+    background: white;
+    padding: 5px;
+    margin: auto;
+}
+
+.click {
+    padding: 5px;
+    background-color: orange;
+    text-decoration: none;
+}
+
+.backgroundtext {
+    background: darkblue;
+    padding: 8px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+.text{
+    font-size: 12px;
+}
+.prestasi{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    padding: 4px;
+    margin: 5px;
+}
+.contentimg{
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin: auto;
+    padding: 2px;
+
+
+}
+.footer{
+    
+    padding: 7px;
+    background: darkblue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin:top;
+    
+    }
+.imgttgsekolah{
+    
+    width: 200px;
+    border: 2px solid orange;
+    margin: 3px;
+    float: left;
+    margin-right: 8px;
+}
+.contentsekolah{
+    height: 40vh;
+    padding: 5px;
+}
+
+
